@@ -116,6 +116,10 @@
     .when('/contributors/sean', {
       templateUrl: '/static/templates/contributors/sean.html'
     })
+       
+    .when('/contributors/pitkofsky', {
+      templateUrl: '/static/templates/contributors/pitkofsky.html'
+    })
     
      .when('/contributors/leek', {
       templateUrl: '/static/templates/contributors/leek.html'
