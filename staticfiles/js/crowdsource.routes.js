@@ -144,6 +144,10 @@
     .when('/contributors/AditiNath', {
       templateUrl: '/static/templates/contributors/aditinath.html'
     })
+  
+     .when('/contributors/Pitkofsky', {
+      templateUrl: '/static/templates/contributors/pitkofsky.html'
+    })
 
     .when('/contributors/ucerron', {
       templateUrl: '/static/templates/contributors/ucerron.html'
